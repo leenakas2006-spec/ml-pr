@@ -44,5 +44,5 @@ To build a robust and scientifically accurate model, the `bmi` and `smoker` feat
 * NumPy
 
 ## Team / فريق العمل
-* Mohammed Suhail (محمد سهيل)
+* Mohammed  (محمد)
 * Leena (لينا)
