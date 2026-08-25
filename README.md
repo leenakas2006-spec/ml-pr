@@ -33,5 +33,5 @@ To build a robust and scientifically accurate model, the `bmi` and `smoker` feat
 This project is just the beginning of our journey in Artificial Intelligence and Data Science, and the upcoming projects will be even more advanced and impactful.
 
 ## Team
-* Mohammed Suhail
+* Mohammed 
 * Leena
